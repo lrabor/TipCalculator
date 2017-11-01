@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Tip Calculator</string>
+    <string name="bill_label">Bill</string>
+    <string name="percent_label">Percent</string>
+    <string name="percent">00%</string>
+    <string name="percent_up">+</string>
+    <string name="percent_down">-</string>
+    <string name="tip_percent_label">Tip Percent</string>
+    <string name="tip_percent">$0.00</string>
+    <string name="total_label">Total</string>
+    <string name="total">$0.00</string>
+    <string name="reset">Reset</string>
+    <string name="rounding_label">Rounding</string>
+    <string name="none_radio">None</string>
+    <string name="tip_radio">Tip</string>
+    <string name="split_label">Split?</string>
+    <string name="per_person_label">Per Person</string>
+    <string name="per_person">$0.00</string>
+
+    <string-array name="split_array">
+        <item>No</item>
+        <item>2 ways</item>
+        <item>3 ways</item>
+        <item>4 ways</item>
+    </string-array>
 </resources>
